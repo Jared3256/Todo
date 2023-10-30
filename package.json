@@ -1,0 +1,31 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@expo/cli": "0.10.14",
+    "@expo/vector-icons": "13.0.0",
+    "expo": "49.0.16",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-native-vector-icons": "6.4.2",
+    "react-native-web": "0.11.x",
+    "react-native-web-vector-icons": "4.4.3",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
